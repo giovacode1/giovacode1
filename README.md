@@ -19,7 +19,7 @@
 </div>
 
 <p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
- 👨‍💻 👨‍💻 Hi, I'm Giova, a 23-year-old Colombian-Venezuelan Software Engineering student, currently in my 7th semester. I’m aspiring to become a Data Engineer. Passionate about technology, I thrive on hard work and continuous learning.
+ 👨‍💻 👨‍💻 Hi, I'm Giova, a 23-year-old Colombian Software Engineering student, currently in my 7th semester. I’m aspiring to become a Data Engineer. Passionate about technology, I thrive on hard work and continuous learning.
 🎮 I love video games, 🌍 exploring languages, and I’m deeply enthusiastic about the Python ecosystem. 🐍✨
 </p>
 <p align="center">
